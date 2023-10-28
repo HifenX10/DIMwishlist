@@ -1,44 +1,76 @@
-// Piece of Mind (PvP)
-//notes:PvP-
-dimwishlist:item=2097055732&perks=839105230,1561002382,1428297954,588594999
-
-// Blood Feud (PvP)
-//notes:PvP-
-dimwishlist:item=1509167284&perks=1482024992,3142289711,1195158366,4082225868
-
-// Blood Feud (PvE)
+// Retrofuturist (PvE)
 //notes:PvE-
-dimwishlist:item=1509167284&perks=1482024992,3142289711,1631667848,4082225868
+dimwishlist:item=-1402766122
 
-// BrayTech Werewolf (PvE)
-//notes:PvE-
-dimwishlist:item=2869466318&perks=202670084,1885400500,1359896290,1015611457
+// Retrofuturist (GM)
+//notes:
+dimwishlist:item=-1402766122
 
-// Austringer (PvP)
-//notes:PvE-
-dimwishlist:item=3055790362&perks=1482024992,1885400500,699525795,2846385770
+// Bonechiller (GM)
+//notes:GM-
+dimwishlist:item=-4037745684
 
-// Cantata-57 (PvP)
-//notes:PvE-
-dimwishlist:item=372697604&perks=839105230,3142289711,699525795,47981717
+// The Deicide (GM)
+//notes:GM-
+dimwishlist:item=-217140611
 
-// Crisis Inverted (PvP)
-//notes:PvP-
-dimwishlist:item=2888266564&perks=1482024992,3230963543,1645158859,2846385770
+// The Comedian (GM)
+//notes:GM-
+dimwishlist:item=-1028582252
 
-// Tarnished Mettle (PvE)
-//notes:PvE-
-dimwishlist:item=2218569744&perks=1482024992,3142289711,3523296417,2173046394
+// Basso Ostinato (GM)
+//notes:GM-
+dimwishlist:item=-2573900604
 
-// Funnelweb (PvP)
-//notes:PvP-
-dimwishlist:item=3341893443&perks=1482024992,3142289711,1428297954,2846385770
+// Wishbringer (GM)
+//notes:GM-
+dimwishlist:item=-3356526253
 
-// Mechabre (PvP)
-//notes:PvP-
-dimwishlist:item=1280894514&perks=1482024992,3142289711,957782887,47981717
+// Without Remorse (GM)
+//notes:GM-
+dimwishlist:item=-1478986057
 
-// Disparity (PvP)
-//notes:PvP-
-dimwishlist:item=1751893422&perks=1482024992,3142289711,699525795,460017080
+// Seventh Seraph CQC-12 (GM)
+//notes:GM-
+dimwishlist:item=-1821724780
+
+// Toil and Trouble (GM)
+//notes:GM-
+dimwishlist:item=-2957367743
+
+// Riiswalker (GM)
+//notes:GM-
+dimwishlist:item=-108221785
+
+// Reckless Endangerment (GM)
+//notes:GM-
+dimwishlist:item=-3216652511
+
+// Ragnhild-D (GM)
+//notes:GM-
+dimwishlist:item=-4225322581
+
+// A Sudden Death (GM)
+//notes:GM-
+dimwishlist:item=-2855157553
+
+// The Inquisitor (GM)
+//notes:GM-
+dimwishlist:item=-2653171212
+
+// Hand in Hand (GM)
+//notes:GM-
+dimwishlist:item=-664109750
+
+// Prophet of Doom (GM)
+//notes:GM-
+dimwishlist:item=-4020742303
+
+// First In, Last Out (GM)
+//notes:GM-
+dimwishlist:item=-3616586446
+
+// Mindbender's Ambition (GM)
+//notes:GM-
+dimwishlist:item=-1586231351
 
